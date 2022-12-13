@@ -1,1 +1,1 @@
-# tailor
+# Tailor browser
